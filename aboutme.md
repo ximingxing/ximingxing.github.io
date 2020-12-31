@@ -4,13 +4,14 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ximing Xing. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a postgraduate majoring in computer science in Beijing university of posts and telecommunications.
+- The following areas are relevant to me: 
+    - Deep Learning - Robustness to noisy labels
+    - Meta-Learning
+    - Web Development (Springboot, React)
 
-What else do you need?
+Recent work in progress: 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- submitted a paper to CVPR`21 
